@@ -216,5 +216,3 @@ void header1()
     printf("|                 Program Kalkulator Sederhana                     |\n");
     printf("====================================================================\n");
 }
-
-//memeng
